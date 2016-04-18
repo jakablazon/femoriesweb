@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>	Kite Coming Soon HTML Template</title>
+	<title>	Femories - Your Facebook memories</title>
 	<meta name="description" content="Kite Coming Soon HTML Template by Jewel Theme" >
 	<meta name="author" content="Jewel Theme">
 
@@ -96,14 +96,14 @@
 			<div class="container">
 				<h3 class="section-name">
 					<span>
-						Subscribe
+						WHAT IS THAT?
 					</span>
 				</h3><!-- /.section-name -->
 				<h2 class="section-title">
-					Terms and conditions
+					Your on demand Facebook mentiones preview. On your Apple Watch.
 				</h2><!-- /.Section-title  -->
 				<p class="section-description">
-					Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+					Femories is your on demand solution to track what is going on with your Facebook profile on your Apple Watch. Everytime you are tagged on a picture or post, you get an instant notification and all those can later be seen on a nice Apple Watch screen.
 				</p><!-- /.section-description -->
 
 				<form class="news-letter" method="post">
@@ -185,7 +185,7 @@
 		<!-- Footer Section -->
 		<footer id="footer-section">
 			<p class="copyright">
-				&copy; <a href="http://jeweltheme.com/html/kite/">Kite</a> 2014-2015, All Rights Reserved. Designed by & Developed by <a href="http://jeweltheme.com">Jewel Theme</a>
+			 2016, All Rights Reserved.</a>
 			</p>
 		</footer>
 		<!-- Footer Section End -->
