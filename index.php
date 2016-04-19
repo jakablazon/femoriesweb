@@ -60,7 +60,7 @@
 			<!-- Main navigation -->
 			<ul id="headernavigation" class="nav navbar-nav">
 				<li class="active"><a href="#page-top">Home</a></li>	
-				<li><a href="#subscribe">Terms and coditions</a></li>	
+				<li><a href="#subscribe">What is this?</a></li>	
 				<li><a href="#contact">Contact</a></li>		
 			</ul> <!-- /.nav .navbar-nav -->
 		</nav> <!-- /.navbar-collapse  -->
@@ -96,7 +96,7 @@
 			<div class="container">
 				<h3 class="section-name">
 					<span>
-						WHAT IS THAT?
+						WHAT IS THIS?
 					</span>
 				</h3><!-- /.section-name -->
 				<h2 class="section-title">
