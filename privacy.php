@@ -91,39 +91,6 @@
 		</div><!-- /.pattern -->		
 	</section><!-- /#page-top -->
 	<!-- Page Top Section  End -->
-	<!-- Subscribe Section -->
-	<section id="subscribe" class="section-style" data-background-image="images/background/newsletter.jpg">
-		<div class="pattern height-resize">
-			<div class="container">
-				<h3 class="section-name">
-					<span>
-						Subscribe
-					</span>
-				</h3><!-- /.section-name -->
-				<h2 class="section-title">
-					Terms and conditions
-				</h2><!-- /.Section-title  -->
-				<p class="section-description">
-					Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-				</p><!-- /.section-description -->
-
-				<form class="news-letter" method="post">
-					<p class="alert-success"></p>
-					<p class="alert-warning"></p>
-					<div class="subscribe-message"></div>
-				</form><!-- /.news-letter -->
-					<div class="next-section">
-						<a class="go-to-contact"><span></span></a>
-					</div><!-- /.next-section -->
-
-				</div><!-- /.container -->
-			</div><!-- /.pattern -->
-
-		</section><!-- /#subscribe -->
-		<!-- Subscribe Section End -->
-
-
-
 		<!-- Contact Section -->
 		<section id="contact" class="section-style" data-background-image="images/background/contact.jpg">
 			<div class="pattern height-resize">
@@ -180,17 +147,6 @@
 
 		</section><!-- /#contact -->
 		<!-- Contact Section End -->
-
-
-
-		<!-- Footer Section -->
-		<footer id="footer-section">
-			<p class="copyright">
-				&copy; <a href="http://jeweltheme.com/html/kite/">Kite</a> 2014-2015, All Rights Reserved. Designed by & Developed by <a href="http://jeweltheme.com">Jewel Theme</a>
-			</p>
-		</footer>
-		<!-- Footer Section End -->
-
 
 		<!-- jQuery Library -->
 		<script type="text/javascript" src="assets/js/jquery-2.1.0.min.js"></script>
