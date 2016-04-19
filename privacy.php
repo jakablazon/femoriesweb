@@ -23,7 +23,7 @@
 			</p>
 			<p class="copyright">
             
-             2016, All ights Reserved. <a href="/privacy.php">Privacy Policy</a>
+             2016, All rights Reserved. <a href="/privacy.php">Privacy Policy</a>
             
             </p> 
 		</footer>
