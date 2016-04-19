@@ -187,6 +187,11 @@
 			<p class="copyright">
 			 2016, All Rights Reserved.</a>
 			</p>
+			<p class="copyright">
+            
+             2016, All Rights Reserved. <a href="/privacy.php">Privacy Policy</a>
+            
+            </p> 
 		</footer>
 		<!-- Footer Section End -->
 
