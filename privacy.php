@@ -82,7 +82,7 @@
 				<h2 class="section-title">
 					Terms and conditions
 				</h2><!-- /.Section-title  -->
-				<h2> FEMORIES TERMS AND CONDITIONS</h2>
+				<h2 align="center"> FEMORIES TERMS AND CONDITIONS</h2>
 				<p>
 				<h3 align="center">Use of the App </h3>
 				You may view and use the App only in accordance with the terms of this Agreement.
@@ -95,21 +95,21 @@ We will not be liable for your losses caused by any unauthorized use of your acc
                 <p>
                 General Prohibitions
 You agree not to do any of the following, either directly or indirectly:
-<ul>
-<l1>1. Use the App or Services for any illegal purpose, or in violation of any local, state, national, or international law, including, without limitation, laws governing intellectual property and other proprietary rights, and data protection and privacy.</l1>
+<ol>
+<li>Use the App or Services for any illegal purpose, or in violation of any local, state, national, or international law, including, without limitation, laws governing intellectual property and other proprietary rights, and data protection and privacy.</l1>
 
-<li>2. Remove, circumvent, disable, damage or otherwise interfere with security-related features of the App or Services, features that prevent or restrict use or copying of any content accessible through the App, or features that enforce limitations on the use of the App.</li>
+<li> Remove, circumvent, disable, damage or otherwise interfere with security-related features of the App or Services, features that prevent or restrict use or copying of any content accessible through the App, or features that enforce limitations on the use of the App.</li>
 
-<li>3. Reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the App or any part thereof.</li>
+<li>Reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the App or any part thereof.</li>
 
-<li>4. Modify, adapt, translate or create derivative works based upon the App or any part thereof;</li>
+<li>Modify, adapt, translate or create derivative works based upon the App or any part thereof;</li>
 
-<li>5. Intentionally interfere or attempt to interfere with or damage proper operation of the App or Services or any User’s enjoyment of them, by any means, including uploading or otherwise disseminating viruses, adware, spyware, worms, or other malicious code.</li>
+<li>Intentionally interfere or attempt to interfere with or damage proper operation of the App or Services or any User’s enjoyment of them, by any means, including uploading or otherwise disseminating viruses, adware, spyware, worms, or other malicious code.</li>
 
-<li>6. Impose or attempt to impose on the App an unreasonably large load on App's infrastructure or make automated use of the Services.</li>
+<li>Impose or attempt to impose on the App an unreasonably large load on App's infrastructure or make automated use of the Services.</li>
 
-<li>7. Reproduce, duplicate, copy, sell, resell, visit, or otherwise exploit the App or Services for any commercial purpose.</li>
-</ul>
+<li>Reproduce, duplicate, copy, sell, resell, visit, or otherwise exploit the App or Services for any commercial purpose.</li>
+</ol>
 Encourage or enable any other individual to do any of the foregoing.
 Changes to Agreement and Additional Rules of Usage
 We reserve the right, at any time and without prior notice, to modify, alter or update this Agreement. Your continued use of the App constitutes your agreement to comply with Updated Agreement.
