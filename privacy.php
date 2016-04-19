@@ -82,7 +82,15 @@
 				<h2 class="section-title">
 					Terms and conditions
 				</h2><!-- /.Section-title  -->
-				<p> Terms and conditions here </p>
+				<h2> FEMORIES TERMS AND CONDITIONS</h2>
+				<p>
+				<h3>Use of the App </h3>
+				You may view and use the App only in accordance with the terms of this Agreement.
+You agree to use the App only for lawful purposes and you acknowledge that your failure to do so may subject you to civil and criminal liability, all as determined by applicable law.
+In order to access some features of the App, you may be required to create an account. You are solely responsible for the activity that occurs on your account, and you must keep your account password secure.
+We will not be liable for your losses caused by any unauthorized use of your account.</p>
+
+
 				<div class="next-section">
 					<a class="go-to-about"><span></span></a>
 				</div><!-- /.next-section -->
