@@ -148,6 +148,19 @@
 		</section><!-- /#contact -->
 		<!-- Contact Section End -->
 
+				<!-- Footer Section -->
+		<footer id="footer-section">
+			<p class="copyright">
+			 2016, All Rights Reserved.</a>
+			</p>
+			<p class="copyright">
+            
+             2016, All Rights Reserved. <a href="/index.php">Home</a>
+            
+            </p> 
+		</footer>
+		<!-- Footer Section End -->
+
 		<!-- jQuery Library -->
 		<script type="text/javascript" src="assets/js/jquery-2.1.0.min.js"></script>
 		<!-- Modernizr js -->
